@@ -1,8 +1,10 @@
-# openfoam_workshop_2025
-1. Turbulence cases
+# openfoam_workshop_2026
+1. Laminar cases
+   - Channel flow
+2. Turbulence cases
    - periodic channel flow
    - Vortex shedding from flow past a cylinder 
-2. MHD cases
+3. MHD cases
    - MHD 2D channel flow (Hartmann MHD channel flow)
    - Shercliff flow (MHD flow in insulating duct) in a duct (at Ha=20)
    - Custom solvers :
